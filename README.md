@@ -9,3 +9,6 @@ Incase where multiple objects exists overlapping each other, Depth images can be
 ## Dataset
 
 Mask-RCNN and YOLOv2, both networks were trained on [Microsoft Kinet RGB-D](http://rgbd-dataset.cs.washington.edu/index.html) dataset containing 548 images of a Coffee Cup.
+
+
+## Weights and data in [drive](https://drive.google.com/drive/folders/1el40zrXsojGhmhtIqRa2c_Wjm6uC9HuY?usp=share_link)
